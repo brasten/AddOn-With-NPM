@@ -2,6 +2,7 @@
 
 Demonstrates using NPM + clasp to build Apps Script projects in a modular way.
 
+Ideally, MasterAddOn and LibraryOne would be different repositories.
 ## Prerequisites
 
 You'll need a working Clasp installation: [https://github.com/google/clasp](https://github.com/google/clasp)
