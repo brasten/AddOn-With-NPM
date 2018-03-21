@@ -1,0 +1,10 @@
+{
+  "name": "MasterAddOn",
+  "version": "1.0.0",
+  "main": "Code.gs",
+  "license": "None",
+  "private": true,
+  "dependencies": {
+    "LibraryOne": "file:../LibraryOne"
+  }
+}

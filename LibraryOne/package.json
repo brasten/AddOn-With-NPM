@@ -1,0 +1,10 @@
+{
+  "name": "LibraryOne",
+  "version": "1.0.0",
+  "main": "Code.gs",
+  "license": "None",
+  "private": true,
+  "files": [
+    "index.gs"
+  ]
+}
